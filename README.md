@@ -1,4 +1,4 @@
 NeuralNetwork_AI
 ===============
 
-Neural network coded in python
+Perceptron multilayet Neural network coded in python.
